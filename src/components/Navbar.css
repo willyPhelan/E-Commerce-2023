@@ -1,0 +1,62 @@
+#divCont { 
+    background-color: black;
+    
+    
+}
+
+.v-line{
+    border-left: 1px solid #ffff;
+    height:30%;
+    left: 48px;
+    position: absolute;
+   }
+
+  
+.btn:hover { 
+    color: yellow
+}
+
+.link { 
+    text-decoration: none;
+}
+
+.cart:hover { 
+color: yellow
+
+}
+
+.cart { 
+    color: white 
+}
+
+#news:hover { 
+    color: yellow
+}
+
+#guest { 
+    width: 20px;
+}
+
+#guest:hover { 
+    color: yellow
+}
+
+.sign { 
+    text-decoration: none;
+    
+}
+
+
+@media (max-width: 1000px) {
+#news  {
+  display: none  
+}
+
+#img {
+    display: none;
+}
+.v-line { 
+    display: none
+}
+
+}

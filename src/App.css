@@ -1,0 +1,13 @@
+header { 
+    background-color: black;
+    color: black
+}
+
+#lin {
+    text-decoration: none;
+}
+
+body { 
+    background: rgb(103,103,103);
+background: linear-gradient(90deg, rgba(103,103,103,1) 0%, rgba(221,215,215,0.35057773109243695) 100%);
+}
